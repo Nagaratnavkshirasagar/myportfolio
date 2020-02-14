@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "NAGARATNA V KSHIRASAGAR",
-    "role": "STUDENT",
+    "role": "student",
     "linkedinId":"Nagaratna Kshirasagar",
     "skypeid": "no",
     "roleDescription": "I like to code in java and like to learn about new technologies, watch webseries and read novels in my free time.",
@@ -17,9 +17,9 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
-          "name":"gmail",
-          "url":"nagaratnakshirasagar666666@gmail.com",
-          "className":"fa fa-gmailid"
+          "name":"skype",
+          "url":"https://twitter.com/rbhatia46",
+          "className":"fa fa-twitter"
         }
       ],
     "aboutme":"I am currently a pre-final year student at KLE'S BCA,HUBBALLI and pursuing my BCA from here. I am a self taught java, currently diving deeper into Android development. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
